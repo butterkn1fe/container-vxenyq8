@@ -1,0 +1,11 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "butterkn1fe",
+  "repo": "container-vxenyq8",
+  "name": "butterkn1fe",
+}
